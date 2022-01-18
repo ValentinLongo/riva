@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\rivadavia\rivadavia\bin\Debug\rivadavia.exe.config
+C:\Users\acer\source\repos\rivadavia\rivadavia\bin\Debug\rivadavia.exe
+C:\Users\acer\source\repos\rivadavia\rivadavia\bin\Debug\rivadavia.pdb
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.Properties.Resources.resources
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.exe
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.pdb
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.frmInicio.resources
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.PL.frmCaja.resources
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.PL.frmJugadores.resources
+C:\Users\acer\source\repos\rivadavia\rivadavia\obj\Debug\rivadavia.PL.frmMovimientos.resources

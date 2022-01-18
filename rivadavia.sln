@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rivadavia", "rivadavia\rivadavia.csproj", "{7387C758-966F-4B45-90BC-3B7E34648884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7387C758-966F-4B45-90BC-3B7E34648884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7387C758-966F-4B45-90BC-3B7E34648884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7387C758-966F-4B45-90BC-3B7E34648884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7387C758-966F-4B45-90BC-3B7E34648884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1BE6413-AC1F-4994-AE4D-2C08DC5B4F45}
+	EndGlobalSection
+EndGlobal
