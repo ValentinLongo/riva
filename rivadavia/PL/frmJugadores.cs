@@ -108,6 +108,8 @@ namespace rivadavia.PL
 
             dgvJugadores.Columns[0].HeaderText = "ID";
             dgvJugadores.Columns[1].HeaderText = "Nombre Jugador";
+            dgvJugadores.Columns[2].HeaderText = "Apellido Jugador";
+
             dgvJugadores.Columns[5].Visible = false;
         }
 
